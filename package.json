@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/spacing-variables",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Spacing variables for Savvy CSS.",
   "main": "build/spacing-variables.css",
   "style": "build/spacing-variables.css",
